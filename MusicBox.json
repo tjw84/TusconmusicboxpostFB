@@ -1,0 +1,285 @@
+{
+   "downloadDependencies": [
+            {
+                "product": "Harry Potter Tan",
+                "SKU": "1"
+            },
+            {
+                "product": "Star Wars Tan",
+                "SKU": "3"
+            },
+            {
+                "product": "Pirates Tan",
+                "SKU": "4"
+            },
+            {
+                "product": "Harry Potter Blue",
+                "SKU": "6"
+            },
+            {
+                "product": "Star Wars Black",
+                "SKU": "8"
+            },
+            {
+                "product": "Imagine Tan",
+                "SKU": "9"
+            },
+            {
+                "product": "J Sparrow Tan",
+                "SKU": "13"
+            },
+            {
+                "product": "Over Rainbow Tan",
+                "SKU": "15"
+            },
+            {
+                "product": "Zelda Tan",
+                "SKU": "17"
+            },
+            {
+                "product": "Lion Sleeps Tan",
+                "SKU": "19"
+            },
+            {
+                "product": "Twinkle Star Tan",
+                "SKU": "20"
+            },
+            {
+                "product": "",
+                "SKU": ""
+            },
+            {
+                "product": "Castle in the sky",
+                "SKU": "21"
+            },
+            {
+                "product": "Lord Rings Tan",
+                "SKU": "23"
+            },
+            {
+                "product": "La La Land Tan",
+                "SKU": "24"
+            },
+            {
+                "product": "Christmas",
+                "SKU": "25"
+            },
+            {
+                "product": "Titanic Song Tan",
+                "SKU": "27"
+            },
+            {
+                "product": "For Alice Tan",
+                "SKU": "30"
+            },
+            {
+                "product": "Fly me Moon Tan",
+                "SKU": "32"
+            },
+            {
+                "product": "La Vie Rose Tan",
+                "SKU": "33"
+            },
+            {
+                "product": "Game Thrones Blue",
+                "SKU": "34"
+            },
+            {
+                "product": "Beauty Beast Black",
+                "SKU": "39"
+            },
+            {
+                "product": "Wife",
+                "SKU": "40"
+            },
+            {
+                "product": "Pink Panther Tan",
+                "SKU": "44"
+            },
+            {
+                "product": "Dragon Ball Red",
+                "SKU": "45"
+            },
+            {
+                "product": "Queen Tan",
+                "SKU": "46"
+            },
+            {
+                "product": "Bella Ciao Tan",
+                "SKU": "52"
+            },
+            {
+                "product": "Falling in Love Tan",
+                "SKU": "57"
+            },
+            {
+                "product": "Friends",
+                "SKU": "62"
+            },
+            {
+                "product": "Jurrassic Park Black",
+                "SKU": "63"
+            },
+            {
+                "product": "Jurrassic Park Tan",
+                "SKU": "65"
+            },
+            {
+                "product": "Lord Rings Black",
+                "SKU": "66"
+            },
+            {
+                "product": "Amelie Tan or Black",
+                "SKU": "67"
+            },
+            {
+                "product": "Queen Black",
+                "SKU": "68"
+            },
+            {
+                "product": "Sunshine Black",
+                "SKU": "69"
+            },
+            {
+                "product": "Sailor Moon",
+                "SKU": "70"
+            },
+            {
+                "product": "Godfather Black",
+                "SKU": "71"
+            },
+            {
+                "product": "Pirates Carib Black",
+                "SKU": "72"
+            },
+            {
+                "product": "It Calls Me Black",
+                "SKU": "73"
+            },
+            {
+                "product": "Pink Panther Black",
+                "SKU": "74"
+            },
+            {
+                "product": "Let it Go Black",
+                "SKU": "75"
+            },
+            {
+                "product": "Beatles Black",
+                "SKU": "77"
+            },
+            {
+                "product": "Zelda Black",
+                "SKU": "78"
+            },
+            {
+                "product": "Spirited Away Black",
+                "SKU": "79"
+            },
+            {
+                "product": "Happy Bday Tan",
+                "SKU": "82"
+            },
+            {
+                "product": "Christmas Green",
+                "SKU": "83"
+            },
+            {
+                "product": "Doraemon blue",
+                "SKU": "85"
+            },
+            {
+                "product": "Totoro Multi C",
+                "SKU": "86"
+            },
+            {
+                "product": "Pooh",
+                "SKU": "88"
+            },
+            {
+                "product": "Sunshine Tan",
+                "SKU": "89"
+            },
+            {
+                "product": "Demon Slayer vs1 Tan",
+                "SKU": "96"
+            },
+            {
+                "product": "Demon Slayer vs4 Tan",
+                "SKU": "105"
+            },
+            {
+                "product": "Naruto Tan",
+                "SKU": "108"
+            },
+            {
+                "product": "Nightmare Black",
+                "SKU": "113"
+            },
+            {
+                "product": "One Piece",
+                "SKU": "114"
+            },
+            {
+                "product": "Attack Titan Black",
+                "SKU": "115"
+            },
+            {
+                "product": "Nightmare VS2 Black",
+                "SKU": "117"
+            },
+            {
+                "product": "Nightmare VS1 Black",
+                "SKU": "121"
+            },
+            {
+                "product": "Potter Wind-up",
+                "SKU": "130"
+            },
+            {
+                "product": "Sunshine Wind-up",
+                "SKU": "131"
+            },
+            {
+                "product": "Moon River Tan",
+                "SKU": "135"
+            },
+            {
+                "product": "Twinkle Star Tan",
+                "SKU": "136"
+            },
+            {
+                "product": "Sunshine Hands Tan",
+                "SKU": "150"
+            },
+            {
+                "product": "Falling in Love Tan",
+                "SKU": "156"
+            },
+            {
+                "product": "Birthday Tan",
+                "SKU": "157"
+            },
+            {
+                "product": "",
+                "SKU": ""
+            },
+            {
+                "product": "",
+                "SKU": ""
+            }
+          ],
+    
+    "x":[{
+    "check": 0,
+    "Unicorn": 87,
+    "Winne Pooh": 88,
+    "attach titan": "(only one, let him know spelling)",
+    "drabon ball": "(only one, let him know spelling)",
+    "amilie SKUs": "b67", "and": "t10",
+    "doraemon": 85,
+    "totoro": 83,
+    "Beatles tan": "(dont worry about it discontinued)",
+    "naming preference (bday...)": 0
+    }]
+}
